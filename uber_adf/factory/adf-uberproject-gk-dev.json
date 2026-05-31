@@ -1,0 +1,15 @@
+{
+	"name": "adf-uberproject-gk-dev",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f5e95b04-360c-4a56-a91b-563fbf9e71a3",
+		"tenantId": "e82569da-5d5f-4385-8f66-6455b15d4b0f"
+	}
+}
